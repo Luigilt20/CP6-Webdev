@@ -30,7 +30,7 @@ Você deve acrescentar as funcionalidades necessárias para que o jogo funcione 
 1. Clonar este repositório
    
 ~~~bash
-git clone https://github.com/mmamorim/CP5-Webdev.git
+git clone https://github.com/mmamorim/CP6-Webdev.git
 ~~~
 
 2. Abrir pasta clonada com o VSCode
